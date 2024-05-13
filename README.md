@@ -5,7 +5,7 @@
 >
 > download vscode 2022 and install with C++ for desktop development plugin
 >
-> use only python 3.7.9 , and if using lower version then , do python -m pip install --upgrade setuptools
+> use only python 3.7.9 , and if using lower version then / getting distutils error  , do python -m pip install --upgrade setuptools
 > 
 > it would require distutils library from python, no boost(c++ library) was needed in windows.
 >
