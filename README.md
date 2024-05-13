@@ -1,3 +1,21 @@
+## HOW TO RUN BY CHETAN
+> i could only manage to run it completely on windows, on ubuntu it was loading, but the main layout page wasnt loading.
+>
+> download nodejs(20 probably) for windows and install it as usual. 
+>
+> download vscode 2022 and install with C++ for desktop development plugin
+>
+> use only python 3.7.9 , and if using lower version then , do python -m pip install --upgrade setuptools
+> 
+> it would require distutils library from python, no boost(c++ library) was needed in windows.
+>
+> then do nothing, just
+.``` npm install , 
+npm run build , 
+npm run start ```
+
+
+
 <img src="https://deepnest.io/img/logo-large.png" alt="Deepnest" width="250">
 
 ## **Deepnest**
